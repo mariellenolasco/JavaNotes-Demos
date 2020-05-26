@@ -1,5 +1,8 @@
 package com.revature.models;
-
+//this class is a public class, meaning it can be accessed by anyone
+//This class belongs to a package, we create packages to organize our code
+// note that according to the package name we have a model
+// personally i like to have a models package that would hold my
 public class Animal {
     //move method
     //POJO plain old java object

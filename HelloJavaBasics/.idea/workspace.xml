@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff84617f-3903-4ac3-b39d-da9d67150f49" name="Default Changelist" comment="" />
+    <list default="true" id="ff84617f-3903-4ac3-b39d-da9d67150f49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/MyTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/MyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/tests/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/tests/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/tests/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/tests/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloJavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloJavaBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/revature/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/revature/models/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/revature/models/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/revature/models/Cat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,26 +36,72 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1c5jQXAQwxpfHQ0PjqTH0vioTS5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Revature\Notes&amp;Demos\HelloJavaBasics\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTests.catShouldMeow">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="HelloJavaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.MyTestRunner" />
+      <module name="HelloJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTests.catShouldMeow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MyTests" />
+      <option name="METHOD_NAME" value="catShouldMeow" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="JUnit.MyTests.catShouldMeow" />
+        <item itemvalue="Application.MyTestRunner" />
+        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -56,25 +124,37 @@
     </state>
     <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1589834315707" />
     <state x="2396" y="26" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1589834402985" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1589836069117">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1590176027117">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1589836069117" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1589836069117">
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176027117" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590176042421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1589836069117" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1589836069117">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176042421" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1590176042421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1589836069117" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1589836069117">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176042421" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1590176042420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1589836069117" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590074749825">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176042420" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1590176042421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590074749825" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176042421" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590075293574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590075293574" />
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590170112504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590170112504" />
+    <state x="91" y="0" key="new project wizard" timestamp="1590176040341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176040341" />
   </component>
 </project>
