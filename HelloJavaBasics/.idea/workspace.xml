@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff84617f-3903-4ac3-b39d-da9d67150f49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/MyTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/MyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestingDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tests/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tests/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tests/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tests/TestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloJavaBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/revature/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/revature/models/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/revature/models/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/revature/models/Cat.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff84617f-3903-4ac3-b39d-da9d67150f49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +31,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -105,6 +85,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,8 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589825332216</updated>
+      <workItem from="1590587568924" duration="46000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2396" y="26" key="#com.intellij.ide.util.MemberChooser" timestamp="1589834402985">
@@ -144,10 +140,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590176042421" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590075293574">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590587572050">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590075293574" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1590587572050" />
     <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590170112504">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
