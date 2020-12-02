@@ -1,0 +1,84 @@
+::RPA vs Automation::
+Which choices define RPA?{
+    ~%50% It is used to automate any business process or functionality. 
+    ~%50% It mimics user actions and can cognitively take decisions to perform actions. 
+    ~%0% It is used to automate a specific type of process. 
+    ~%0% It does not mimic user actions and only executes the given program instructions.
+}
+
+::RPA Criteria::
+Which characteristics describe a process that can be automated?{
+    ~%50% Rules-driven
+    ~%50% Repetitive in nature
+    ~%0% Driven by manual inputs
+    ~%0% Extremely complex and difficult
+}
+
+::RPA Life Cycle::
+Which is NOT part of the RPA LC (as defined by UiPath)?{
+    ~%0% Discover
+    ~%0% Build
+    ~%90% Test
+    ~%0% Manage
+    ~%10% Partyyyyy
+}
+
+::Robot Types::
+Which statement best describes the two robot types{
+    ~Attendant robots are called so because they function as robot assistants and ease their human's workload. Non attendant robots are called so because they function independently from humans.
+    ~Attended robots are called so because you have to attend a seminar to learn how to work with them. Unattended robots function separate from humans and require no seminar training.
+    ~Attended robots operate with human interaction and are triggered by their user's emotions. Unattended robots operate without human intervention (they don't need no man)
+    =Attended robots are trigerred by user events and operate along side humans. Unattended robots work alone in their virtual environment.
+}
+
+::Data flow representations::
+Select all data flow representations available in UiPath Studio{
+    ~%50% Sequence
+    ~%50% Flowchart
+    ~%0% Context diagrams
+    ~%0% Literature web
+}
+
+::Variables and Arguments::
+What is the difference between variables and arguments?{
+    ~%10% Spelling
+    ~%90%  While both are used to store data, arguments are used to pass data between workflows.
+    ~%0% Other than spelling, both terms can be used interchangeably to refer to the same thing.
+    ~%0% While both are used to store data, variables are used to pass data between workflows. ​
+}
+
+::Data Types::
+Which of the following are variable types in UiPath Studio?{
+    ~%25% String
+    ~%25% Boolean
+    ~%25% Data Table
+    ~%25% Generic Value
+    ~%0% Nibble
+    ~%0% Any
+    ~%0% Null
+}
+
+::Lean Fundamentals::
+These are a set of principles to improve productivity and reduce waste.{
+    =True
+    ~False    
+}
+
+::Roles in an RPA Project::
+Which of the following are valid roles in a RPA project?{
+    ~%25% Infrastructure Engineer
+    ~%25% SME in the form of employees that perform the process to be automated
+    ~%25% RPA Developers
+    ~%25% RPA Solution Architect
+    ~%0% Sous Chef
+    ~%0% OCP Developer
+    ~%0% PCSSA Developer
+}
+
+::RPA Definition::
+RPA stands for{
+    = Robotic Process Automation
+    ~ Robotic Program Automation
+    ~ Robots Process Automation
+    ~ Robotic Process Aggregation
+}
